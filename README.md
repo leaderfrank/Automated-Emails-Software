@@ -1,7 +1,7 @@
 # Automated-Emails-Software
 Automated Emails Software - Automate your email marketing with one payment solution.
 
--- What you will get --
+**-- What you will get --**
 
 Email Automation Made Easy: Streamline your email marketing efforts by automating the entire process with our software. Simply input your email details and SMTP server to get started.
 
@@ -13,11 +13,12 @@ Smart Delivery Management: Our software intelligently distinguishes between deli
 
 No Monthly Fees: Enjoy the freedom of a one-time payment solution. Unlike other services that charge monthly fees or tie you into long-term contracts, our software provides a cost-effective and efficient alternative.
 
--- Limitations --
+**-- Limitations --**
 
 Daily Email Cap: To maintain email deliverability and adhere to usage standards, the software limits users to sending a maximum of 100 emails per day. This ensures responsible and ethical use of the automation tool.
 
 https://leaderfrank.gumroad.com/l/automete-emails-software
 
-Promote for 20% Affiliate
-https://leaderfrank.gumroad.com/addiliates
+**Promote for 20% Affiliate**
+
+https://leaderfrank.gumroad.com/affiliates
