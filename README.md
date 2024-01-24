@@ -18,3 +18,6 @@ No Monthly Fees: Enjoy the freedom of a one-time payment solution. Unlike other 
 Daily Email Cap: To maintain email deliverability and adhere to usage standards, the software limits users to sending a maximum of 100 emails per day. This ensures responsible and ethical use of the automation tool.
 
 https://leaderfrank.gumroad.com/l/automete-emails-software
+
+Promote for 20% Affiliate
+https://leaderfrank.gumroad.com/addiliates
